@@ -1,4 +1,4 @@
-# Namma Community Chat
+# Ayshashebeeb
 
 A bilingual (Malayalam + English), responsive community chat starter built with React, Vite and Firebase.
 
